@@ -1,6 +1,7 @@
 # Scarborough News
 
 Currently under construction...
+You can view the incomplete site here: https://scarboroughnews.github.io/
 
 ## HOW TO RUN:
 
